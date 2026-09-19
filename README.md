@@ -42,6 +42,9 @@ MAE (Mean Absolute Error)
 RMSE (Root Mean Squared Error)
 MAPE (Mean Absolute Percentage Error)
 
+## DATASET - 
+The dataset used in this project is not included in the repository due to its large file size.
+
 ## POWER BI DASHBOARD
 The Power BI dashboard provides interactive insights into:
 
@@ -63,22 +66,26 @@ https://github.com/palakkohli09-svg/Retail-Demand-Forecasting-System-Data-Scienc
 ### PAGE 3 - Forecasting Results
 https://github.com/palakkohli09-svg/Retail-Demand-Forecasting-System-Data-Science-Project/blob/main/forecasting_results.png
 
-## KEY INSIGHTS
-Identified sales trends and demand patterns over time.
-Analyzed product and store-level sales performance.
-Used lag and rolling features to capture historical demand behavior.
-Compared traditional time-series models with machine learning approaches.
-Created a dashboard to support data-driven demand planning.
-
 ## PROJECT STRUCTURE
 ### RETAIL DEMAND FORECASTING
---> NOTEBOOK - https://github.com/palakkohli09-svg/Retail-Demand-Forecasting-System-Data-Science-Project/blob/main/Retail_Demand_Forecasting_System.ipynb
+### NOTEBOOK -
+https://github.com/palakkohli09-svg/Retail-Demand-Forecasting-System-Data-Science-Project/blob/main/Retail_Demand_Forecasting_System.ipynb
 
---> POWER BI SCREENSHOTS :-
+### POWER BI SCREENSHOTS :-
 
-    1. https://github.com/palakkohli09-svg/Retail-Demand-Forecasting-System-Data-Science-Project/blob/main/demand_forecast_overview.png
+PAGE 1 - https://github.com/palakkohli09-svg/Retail-Demand-Forecasting-System-Data-Science-Project/blob/main/demand_forecast_overview.png
+
+PAGE 2 - https://github.com/palakkohli09-svg/Retail-Demand-Forecasting-System-Data-Science-Project/blob/main/demand_analysis.png
     
-    2. https://github.com/palakkohli09-svg/Retail-Demand-Forecasting-System-Data-Science-Project/blob/main/demand_analysis.png
-    
-    3. https://github.com/palakkohli09-svg/Retail-Demand-Forecasting-System-Data-Science-Project/blob/main/forecasting_results.png
+PAGE 3 - https://github.com/palakkohli09-svg/Retail-Demand-Forecasting-System-Data-Science-Project/blob/main/forecasting_results.png
+
+### DATA - 
+https://github.com/palakkohli09-svg/Retail-Demand-Forecasting-System-Data-Science-Project/edit/main/README.md
+
+## KEY INSIGHTS
+1. Identified sales trends and demand patterns over time.
+2. Analyzed product and store-level sales performance.
+3. Used lag and rolling features to capture historical demand behavior.
+4. Compared traditional time-series models with machine learning approaches.
+5. Created a dashboard to support data-driven demand planning.
 
