@@ -61,7 +61,7 @@ https://github.com/palakkohli09-svg/Retail-Demand-Forecasting-System-Data-Scienc
 https://github.com/palakkohli09-svg/Retail-Demand-Forecasting-System-Data-Science-Project/blob/main/demand_analysis.png
 
 ### PAGE 3 - Forecasting Results
-
+https://github.com/palakkohli09-svg/Retail-Demand-Forecasting-System-Data-Science-Project/blob/main/forecasting_results.png
 
 ## KEY INSIGHTS
 Identified sales trends and demand patterns over time.
