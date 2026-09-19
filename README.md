@@ -72,8 +72,10 @@ Created a dashboard to support data-driven demand planning.
 
 ## PROJECT STRUCTURE
 ### RETAIL DEMAND FORECASTING
-
-DATA - 
-NOTEBOOK - https://github.com/palakkohli09-svg/Retail-Demand-Forecasting-System-Data-Science-Project/blob/main/Retail_Demand_Forecasting_System.ipynb
-POWER BI SCREENSHOTS :-
+--> DATA - 
+--> NOTEBOOK - https://github.com/palakkohli09-svg/Retail-Demand-Forecasting-System-Data-Science-Project/blob/main/Retail_Demand_Forecasting_System.ipynb
+--> POWER BI SCREENSHOTS :-
+    1. https://github.com/palakkohli09-svg/Retail-Demand-Forecasting-System-Data-Science-Project/blob/main/demand_forecast_overview.png
+    2. https://github.com/palakkohli09-svg/Retail-Demand-Forecasting-System-Data-Science-Project/blob/main/demand_analysis.png
+    3. https://github.com/palakkohli09-svg/Retail-Demand-Forecasting-System-Data-Science-Project/blob/main/forecasting_results.png
 
