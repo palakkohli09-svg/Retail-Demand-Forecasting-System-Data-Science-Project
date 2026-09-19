@@ -1,0 +1,2 @@
+# Retail-Demand-Forecasting-System-Data-Science-Project
+Built an end-to-end demand forecasting project using Python, SQL, Machine Learning, and Power BI to analyze historical sales patterns and predict future product demand. Implemented time-series techniques including ARIMA and SARIMA, along with Random Forest and XGBoost models, and created an interactive Power BI dashboard for business insights.
