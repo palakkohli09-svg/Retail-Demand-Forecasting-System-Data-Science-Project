@@ -55,7 +55,7 @@ The Power BI dashboard provides interactive insights into:
 
 ## DASHBOARD PREVIEW
 ### PAGE 1 - Demand Forecast Overview
-
+https://github.com/palakkohli09-svg/Retail-Demand-Forecasting-System-Data-Science-Project/blob/main/demand_forecast_overview.png
 
 ### PAGE 2 - Demand Analysis
 
