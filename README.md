@@ -73,7 +73,7 @@ Created a dashboard to support data-driven demand planning.
 ## PROJECT STRUCTURE
 ### RETAIL DEMAND FORECASTING
 
-DATA - "C:\Users\pk706\Downloads\retail_demand_forecasting_3_years.csv"
-NOTEBOOK - "C:\Users\pk706\Retail_Demand_Forecasting_System.ipynb"
+DATA - 
+NOTEBOOK - https://github.com/palakkohli09-svg/Retail-Demand-Forecasting-System-Data-Science-Project/blob/main/Retail_Demand_Forecasting_System.ipynb
 POWER BI SCREENSHOTS :-
 
